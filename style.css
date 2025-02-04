@@ -35,3 +35,15 @@ a{
 .menu img{
     height: 40px;
 }
+.card1{
+    width: 18vw;
+    height: 45vh;
+    background-color: aquamarine;
+    border-radius: 1vw;
+    margin-left: 2vw;
+
+}
+
+.conteudos{
+    display: flex;
+} 
